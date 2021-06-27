@@ -8,7 +8,7 @@ Please let us know issues you encounter, you can find feedback channel in the ap
 
 ## Builds
 
-[Latest release](https://github.com/cyanzhong/Taio-Mac-Beta/releases).
+[Recent releases](https://github.com/cyanzhong/Taio-Mac-Beta/releases).
 
 Note that, the app won't be updated automatically, you will need to check this page for newly published builds.
 
