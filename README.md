@@ -13,9 +13,6 @@ Please let us know issues you encounter, you can find feedback channel in the ap
   - macOS bug, fixed on Monterey
 - Recent files won't show
   - macCatalyst bug, we're looking for help from Apple
-- Unsupported text actions
-  - Show Dictionary Definition (macCatalyst feature gap)
-  - Web Search (use `Open URL` to work around)
 - Unsupported [JavaScript](https://docs.xteko.com/#/en/) APIs
   - [Obj-C blocks](https://docs.xteko.com/#/en/runtime/blocks?id=objective-c-blocks)
   - [Calling C functions](https://docs.xteko.com/#/en/runtime/c)
