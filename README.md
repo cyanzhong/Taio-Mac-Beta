@@ -12,7 +12,7 @@ Please let us know issues you encounter, you can find feedback channel in the ap
 
 - Shortcuts on Monterey doesn't work
 - HTML preview will be clipped sometimes
-  - macOS bug, fixed on Monterey
+  - macCatalyst bug, fixed on Monterey
 - Recent files won't show
   - macCatalyst bug, we're looking for help from Apple
 - Unsupported [JavaScript](https://docs.xteko.com/#/en/) APIs
