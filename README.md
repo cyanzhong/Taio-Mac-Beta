@@ -6,7 +6,13 @@ Although the app is targeted for `macOS 11.5` and above, we only did internal te
 
 Please let us know issues you encounter, you can find feedback channel in the app.
 
+## Builds
+
 [Latest release](https://github.com/cyanzhong/Taio-Mac-Beta/releases).
+
+Note that, the app won't be updated automatically, you will need to check this page for newly published builds.
+
+Ideally, we should rely on [TestFlight](https://developer.apple.com/testflight/) for Mac, but it's not available for now.
 
 ## Known Issues
 
