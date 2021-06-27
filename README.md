@@ -6,6 +6,8 @@ Although the app is targeted for `macOS 11.5` and above, we only did internal te
 
 Please let us know issues you encounter, you can find feedback channel in the app.
 
+[Latest release](https://github.com/cyanzhong/Taio-Mac-Beta/releases).
+
 ## Known Issues
 
 - Shortcuts on Monterey doesn't work
