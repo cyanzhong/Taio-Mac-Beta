@@ -19,7 +19,7 @@ Ideally, we should rely on [TestFlight](https://developer.apple.com/testflight/)
 - Shortcuts on Monterey doesn't work
 - HTML preview will be clipped sometimes
   - macCatalyst bug, fixed on Monterey
-- Recent files won't show
+- Recent files won't show when right-clicking on the Dock icon
   - macCatalyst bug, we're looking for help from Apple
 - Unsupported [JavaScript](https://docs.xteko.com/#/en/) APIs
   - [Obj-C blocks](https://docs.xteko.com/#/en/runtime/blocks?id=objective-c-blocks)
