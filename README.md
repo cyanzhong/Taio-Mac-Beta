@@ -21,6 +21,8 @@ Ideally, we should rely on [TestFlight](https://developer.apple.com/testflight/)
   - macCatalyst bug, fixed on Monterey
 - Recent files won't show when right-clicking on the Dock icon
   - macCatalyst bug, we're looking for help from Apple
+- Tool picker won't show in sketchpad
+  - macCatalyst feature gap, won't fix
 - Unsupported [JavaScript](https://docs.xteko.com/#/en/) APIs
   - [Obj-C blocks](https://docs.xteko.com/#/en/runtime/blocks?id=objective-c-blocks)
   - [Calling C functions](https://docs.xteko.com/#/en/runtime/c)
