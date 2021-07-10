@@ -16,8 +16,6 @@ Ideally, we should rely on [TestFlight](https://developer.apple.com/testflight/)
 
 ## Known Issues
 
-- Source code editor doesn't show auto completions
-  - We are currently working on it
 - Shortcuts on Monterey doesn't work
 - HTML preview will be clipped sometimes
   - macCatalyst bug, fixed on Monterey
