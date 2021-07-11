@@ -6,6 +6,8 @@ Although the app is targeted for `macOS 11.5` and above, we only did internal te
 
 Please let us know issues you encounter, you can find feedback channel in the app.
 
+<img src="https://user-images.githubusercontent.com/6745066/125184172-1d30dc80-e24e-11eb-9095-5b2a12c9f459.png" width="864" />
+
 ## Builds
 
 [Recent releases](https://github.com/cyanzhong/Taio-Mac-Beta/releases).
