@@ -19,17 +19,19 @@ Ideally, we should rely on [TestFlight](https://developer.apple.com/testflight/)
 ## Known Issues
 
 - Shortcuts on Monterey doesn't work
+- Actions won't be synced using iCloud
+  - Planned, might not be in the initial release
 - HTML preview will be clipped sometimes
-  - macCatalyst bug, fixed on Monterey
+  - Mac Catalyst bug, fixed on Monterey
 - Recent files won't show when right-clicking on the Dock icon
-  - macCatalyst bug, we're looking for help from Apple
+  - Mac Catalyst bug, we're looking for help from Apple
 - Tool picker won't show in sketchpad
-  - macCatalyst feature gap, won't fix
+  - Mac Catalyst feature gap, won't fix
 
 ## Todos
 
 - [ ] Known issues
-- [ ] Move to [Mac Idiom](https://developer.apple.com/documentation/uikit/mac_catalyst/choosing_a_user_interface_idiom_for_your_mac_app)
+- [ ] Move to [Mac Idiom](https://developer.apple.com/documentation/uikit/mac_catalyst/choosing_a_user_interface_idiom_for_your_mac_app), or less iPad-like
 - [ ] Better multi-selection support
 - [ ] More mouse and keyboard support
 
