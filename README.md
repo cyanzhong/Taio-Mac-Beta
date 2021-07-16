@@ -18,7 +18,6 @@ Ideally, we should rely on [TestFlight](https://developer.apple.com/testflight/)
 
 ## Known Issues
 
-- Shortcuts on Monterey doesn't work
 - Actions won't be synced using iCloud
   - Planned, might not be in the initial release
 - HTML preview will be clipped sometimes
