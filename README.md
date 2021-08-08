@@ -1,3 +1,7 @@
+> Taio for Mac has been officially released, thanks for participating the Beta program.
+> 
+> You can start using [Mac App Store version](https://taio.app/mac) from now on.
+
 # Taio for Mac (Beta)
 
 Thank you for using [Taio](https://taio.app/) for Mac, the app is currently in its early stages, please expect bugs and do not use it for important docs for now.
