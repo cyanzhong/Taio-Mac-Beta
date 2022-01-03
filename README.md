@@ -6,9 +6,9 @@
 
 Thank you for using [Taio](https://taio.app/) for Mac, the app is currently in its early stages, please expect bugs and do not use it for important docs for now.
 
-Although the app is targeted for `macOS 11.5` and above, we only did internal testing on `Big Sur` (Intel & M1) and `Monterey` (Intel).
+Although the app is targeted for `macOS 10.15` and above, we only did internal testing on `Big Sur` (Intel & M1) and `Monterey` (Intel).
 
-Please let us know issues you encounter, you can find feedback channel in the app.
+Please let us know issues you encounter, you can find feedback channels in the app.
 
 <img src="https://user-images.githubusercontent.com/6745066/125184172-1d30dc80-e24e-11eb-9095-5b2a12c9f459.png" width="864" />
 
@@ -18,7 +18,7 @@ Please let us know issues you encounter, you can find feedback channel in the ap
 
 Note that, the app won't be updated automatically, you will need to check this page for newly published builds.
 
-Ideally, we should rely on [TestFlight](https://developer.apple.com/testflight/) for Mac, but it's not available for now.
+Ideally, we should rely on [TestFlight](https://developer.apple.com/testflight/) for Mac, but we don't have a plan just yet.
 
 ## Known Issues
 
@@ -29,7 +29,7 @@ Ideally, we should rely on [TestFlight](https://developer.apple.com/testflight/)
 
 ## Todos
 
-- [ ] Known issues
+- [x] Known issues
 - [ ] Move to [Mac Idiom](https://developer.apple.com/documentation/uikit/mac_catalyst/choosing_a_user_interface_idiom_for_your_mac_app), or less iPad-like
 - [ ] Better multi-selection support
 - [ ] More mouse and keyboard support
