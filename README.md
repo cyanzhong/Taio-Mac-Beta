@@ -22,10 +22,6 @@ Ideally, we should rely on [TestFlight](https://developer.apple.com/testflight/)
 
 ## Known Issues
 
-- Actions won't be synced using iCloud
-  - Planned, might not be in the initial release
-- HTML preview will be clipped sometimes
-  - Mac Catalyst bug, fixed on Monterey
 - Recent files won't show when right-clicking on the Dock icon
   - Mac Catalyst bug, we're looking for help from Apple
 - Tool picker won't show in sketchpad
